@@ -1,0 +1,28 @@
+name: RAUM3
+favicon: null
+layout_spectrum: 0.8596807536669075
+typography_spectrum: 0.025713345035910606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.057895634323358536
+  lightness: 0.8648705298546702
+  saturation: 0.7521054418757558
+  rhythmicContrast: 0.19000965147279203
+purpose: []
