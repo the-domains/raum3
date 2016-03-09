@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[RAUM3]]></title>
         <description><![CDATA[RAUM3]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raum3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 11:37:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 11:37:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raum3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[print. ]]></title>
+            <description><![CDATA[<article><h1>print. </h1><p>Als kleines Kreativstudio können wir besonders schnell und flexibel auf die Wünsche unserer Kunden eingehen. Von der ganzheitlichen Kampagne, über Jahresberichte oder Produktkataloge, bis hin zur einfachen Visitenkarte können wir Ihnen mit Kreativität und Erfahrung zur Seite stehen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea2d1816b69a0a9cd0fa1698a4ab822474380948.jpg"></article>]]></description>
+            <link>https://thegrid.ai/raum3/print/index.html</link>
+            <guid isPermaLink="false">ab0c4313-5b8a-4af6-8958-47d4e5b987e0</guid>
+            <pubDate>Wed, 09 Mar 2016 11:37:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[web. ]]></title>
             <description><![CDATA[<article><h1>web. </h1><h2>Modernes Webdesign
 selbst verwalten. </h2><p>Ob Sie nun einen kleinen Blog, einen Web-Shop, eine intelligente, datenbankgestützte Händlerplattform für Ihr Unternehmen oder ein pfiffiges HandyGame benötigen, wir entwickeln zusammen mit Ihnen genau den Auftritt, der Ihr Unternehmen optimal repräsentiert.
 </p></article>]]></description>
-            <link>undefinedweb/index.html</link>
+            <link>https://thegrid.ai/raum3/web/index.html</link>
             <guid isPermaLink="false">5256fff8-a070-41ee-8cb9-6c5a01f83a52</guid>
             <pubDate>Wed, 09 Mar 2016 11:37:09 GMT</pubDate>
         </item>
