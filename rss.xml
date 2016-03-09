@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RAUM3]]></title>
+        <description><![CDATA[RAUM3]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 11:37:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[web. ]]></title>
+            <description><![CDATA[<article><h1>web. </h1><h2>Modernes Webdesign
+selbst verwalten. </h2><p>Ob Sie nun einen kleinen Blog, einen Web-Shop, eine intelligente, datenbankgestützte Händlerplattform für Ihr Unternehmen oder ein pfiffiges HandyGame benötigen, wir entwickeln zusammen mit Ihnen genau den Auftritt, der Ihr Unternehmen optimal repräsentiert.
+</p></article>]]></description>
+            <link>undefinedweb/index.html</link>
+            <guid isPermaLink="false">5256fff8-a070-41ee-8cb9-6c5a01f83a52</guid>
+            <pubDate>Wed, 09 Mar 2016 11:37:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
